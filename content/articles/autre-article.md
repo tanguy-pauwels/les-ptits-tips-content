@@ -2,6 +2,8 @@
 test: toto
 title: meta title de l'article
 description: meta description de l'article
+date: 2025-08-31
+cover: /uploads/test.jpg
 ---
 
 # Autre Article page
