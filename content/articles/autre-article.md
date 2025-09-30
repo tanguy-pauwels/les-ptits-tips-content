@@ -5,7 +5,7 @@ description: meta description de l'article
 date: 2025-08-31
 cover: cocooning-img-1.png
 published: true
-path: toto
+slug: toto
 category: bibou
 ---
 
