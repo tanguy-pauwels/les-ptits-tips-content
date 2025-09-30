@@ -3,8 +3,10 @@ test: toto
 title: meta title de l'article
 description: meta description de l'article
 date: 2025-08-31
-cover: /uploads/test.jpg
+cover: cocooning-img-1.png
 published: true
+path: toto
+category: bibou
 ---
 
 # Autre Article page
