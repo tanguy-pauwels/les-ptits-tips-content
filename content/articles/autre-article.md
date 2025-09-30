@@ -15,3 +15,7 @@ q,kljqkbfjkbqskbfjkqsbf
 qs,lkjsqnfklsqnklfnksqlnfbqsjkbfhjsvhjfvhjsfv
 
 fsqnfkjbqshjfvhjqsvfhjvshjfvhjsvfghsqvfghvqsjfv
+
+![photo de bougie](/cocooning-img-1.png)
+
+blablabla
